@@ -11,4 +11,4 @@ This project demonstrates a full SQL data cleaning process using a dataset of te
 
 By: Angelos Papageorgiou
 
-This Project is inspired by Alex The Analyst [https://www.youtube.com/@AlexTheAnalyst] 
+This Project is inspired by [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
